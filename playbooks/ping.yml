@@ -3,5 +3,4 @@
 
   tasks:
     - name: connectivity check
-      name: ping check
         ping: yes
